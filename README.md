@@ -11,7 +11,7 @@ Brazilian Developer Student, 24 years old, currently studing JavaScript.
   <img align="center" alt="Otis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Otis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Otis-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/338093594579566595/853824407167041546/otimista-coffe.png?width=559&height=559">
+  <img align="right" alt="Otis-pic" height="145" style="border-radius:50px;" src="https://media.discordapp.net/attachments/338093594579566595/853824407167041546/otimista-coffe.png?width=559&height=559">
 </div>
 
 ##
